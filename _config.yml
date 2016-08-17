@@ -1,3 +1,4 @@
+layout_spectrum: 0.4514059107750654
 typography_spectrum: 0.0071720879059284925
 color:
   brandStrength: 0.42870366061106324
@@ -5,12 +6,9 @@ color:
   saturation: 0.6693604064639658
   rhythmicContrast: 0.6180440592579544
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.4514059107750654
-name: 狐狸
-title: Foxen
-description: Remix Reality
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: foxen
