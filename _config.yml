@@ -1,0 +1,14 @@
+layout_spectrum: 0.4514059107750654
+typography_spectrum: 0.0071720879059284925
+color:
+  brandStrength: 0.42870366061106324
+  lightness: 0.3850642025936395
+  saturation: 0.6693604064639658
+  rhythmicContrast: 0.6180440592579544
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: foxen
